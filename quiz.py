@@ -30,6 +30,7 @@ def main():
 	antwort = 'git'
 	if eingabe == antwort:
 		print('\nDu kennst dich aus!')
+		print('\nWirklich super!') 
 	else:
 		print('\nLies nochmal nach!')
 	return 0
